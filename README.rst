@@ -263,4 +263,4 @@ The name of this role can be specified via a configuration variable ``CURATIONS_
 
 The following ``invenio roles`` command can be used to create the role if it doesn't exist yet: ``invenio roles create <name-of-curation-role>``.
 
-After the role has been created, it can be assigned to users via: ``invenio roles add <user-email-address> <name-of-curation-role>``.
+After the role has been created, it can be assigned to users via: ``invenio roles add <user-email-address> <name-of-curation-role>``. 
